@@ -4,4 +4,4 @@
  the dataset that I worked with is the DEAP dataset.
  
 ## DEAP Dataset
-you can download the dataset[here](http://www.eecs.qmul.ac.uk/mmv/datasets/deap/index.html)
+you can download the dataset [here](http://www.eecs.qmul.ac.uk/mmv/datasets/deap/index.html)
