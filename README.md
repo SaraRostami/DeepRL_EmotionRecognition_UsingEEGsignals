@@ -6,5 +6,5 @@
 ## DEAP Dataset
 you can download the dataset [here](http://www.eecs.qmul.ac.uk/mmv/datasets/deap/index.html)
 
-#Special Thanks
+# Special Thanks
 -@TahaRostami for giving the idea behined this project and helping me throughout the project.
